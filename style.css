@@ -20,14 +20,13 @@ section {
     align-items: center;
     padding: 1.5rem;
 }
-section svg {
-    width: 135px;
-    position: relative;
-    right: 485px;
-    bottom: 4px;
-    height: 40px;
-}
 
+.linkedin-log{
+  height: 40px;
+  position: relative;
+  right: 485px;
+  bottom: 4px;
+}
 section h2 {
     font-weight: 400;
     margin: 1.5rem;
