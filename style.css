@@ -178,7 +178,7 @@ footer * {
     font-size: .7rem;
 }
 footer > * {
-    margin: 0 .4rem;
+    margin: 0 .5rem;
 }
 footer > *:hover {
     color: #0a66c2;
